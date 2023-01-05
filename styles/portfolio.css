@@ -15,7 +15,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title {
     font-weight: 800;
@@ -65,10 +65,7 @@ nav li {
 main{
     max-width: 1140px;
     margin: 0 auto;
-    /* width: 1140px; */
-    /* height: 550px;
-    left: 230px;
-    top: 967px; */
+    
 }
 /* about section styles */
 section{
